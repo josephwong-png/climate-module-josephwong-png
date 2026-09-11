@@ -1,3 +1,5 @@
+[![Reproducibility Check](https://github.com/josephwong-png/climate-module-josephwong-png/actions/workflows/main.yml/badge.svg)](https://github.com/josephwong-png/climate-module-josephwong-png/actions/workflows/main.yml)
+
 # Climate Data Analysis
 
 Joseph Wong and Jacob Backus. We split the work evenly, used AI for the code, and wrote the explanations ourselves.
